@@ -8,4 +8,4 @@ Mühle
 Auswahl:
 ->Mafia/TTT/Werwolf
 Alternative:
-->Mühle
+->Mühle!
