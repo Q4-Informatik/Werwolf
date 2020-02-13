@@ -1,0 +1,11 @@
+//"Hearthstone"
+//Uno
+Flipper
+Mühle
+//Pac Man
+//Solitaire
+
+Auswahl:
+->Mafia/TTT/Werwolf
+Alternative:
+->Mühle
