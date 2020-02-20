@@ -1,9 +1,4 @@
-    SMARTe Ziele:
-1. Abstimmen, welches Spiel erstellt werden soll.
-2. Einen Plan entwickeln und Aufgaben verteilen.
-3.
-
-SMARTe Ziele neu:
+SMARTe Ziele
 
 1. Diskussion über mögliche Projekte
 2. Entscheidung welches Projekt in Angriff genommen wird
