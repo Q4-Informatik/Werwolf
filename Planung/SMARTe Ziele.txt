@@ -1,0 +1,11 @@
+SMARTe Ziele
+
+1. Diskussion über mögliche Projekte
+2. Entscheidung welches Projekt in Angriff genommen wird
+3. Entwicklung eines Plans und Verteilung der Aufgaben
+4. Erstellung eines Organigramms
+5. Erstellung der Grundbasis für das Programm, welche ausgerarbeitet wird.
+6. Testen der Grundbasis auf etwaige Fehler
+7. Ausarbeitung der Programmbasis
+8. Festlegung der einzelnen Spielrollen anhand des Kartenspiels
+9. Einfügung der einzelnen Spielrollen
