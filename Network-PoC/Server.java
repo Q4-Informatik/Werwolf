@@ -1,7 +1,7 @@
 import java.net.*;
 import java.io.*;
 
-public class Server extends Thread {
+class Server extends Thread {
     private ServerSocket serverSocket;
 
     public Server(int port) throws IOException {
