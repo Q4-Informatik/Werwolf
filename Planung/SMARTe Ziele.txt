@@ -1,9 +1,8 @@
 SMARTe Ziele
 
-1. Diskussion über mögliche Projekte (erledigt 13.02.20)
-2. Entscheidung welches Projekt in Angriff genommen wird
-3. Entwicklung eines Plans und Verteilung der Aufgaben
-4. Erstellung eines Organigramms
+1. Bis zum 13.02.2020 werden Luca, Etienne, Lutz, Phillip und Manuel über mögliche Spiele, welche für ein Software Engineering in Frage      kämen, diskutiert haben und eines ausgewählt haben.(erledigt 13.02.20)
+2. Bis zum 20.02 werden alle einen groben Aufbau für unser  ausgearbeitet haben und Grundaufgaben zugeteilt haben.(erledigt 20.02.2020) 
+3. Bis zum 20.02 werden alle das Organigramm für das Projekt erarbeitet haben
 5. Erstellung der Grundbasis für das Programm, welche ausgerarbeitet wird.
 6. Testen der Grundbasis auf etwaige Fehler
 7. Ausarbeitung der Programmbasis
